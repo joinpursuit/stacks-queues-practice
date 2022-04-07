@@ -77,3 +77,7 @@ You will
   - `getLast` node
   - `isEmpty` check if list is empty
   - `peek` the first node
+
+
+
+temp = []

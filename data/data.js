@@ -16,3 +16,23 @@ module.exports = {
   nums,
   words,
 };
+
+
+ [
+  7,
+  1,
+  2,
+  4,
+  5,
+]
+
+
+tempNums = 
+[
+
+]
+
+//pop()
+//pop-var = 
+
+//push(data)
